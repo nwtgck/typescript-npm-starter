@@ -21,10 +21,10 @@
   "devDependencies": {
     "@types/mocha": "^5.2.7",
     "@types/power-assert": "^1.5.3",
-    "mocha": "^6.2.2",
+    "mocha": "^6.2.3",
     "power-assert": "^1.6.1",
-    "ts-node": "^8.6.2",
-    "typescript": "^3.8.2"
+    "ts-node": "^8.10.1",
+    "typescript": "^3.9.3"
   },
   "dependencies": {}
 }
