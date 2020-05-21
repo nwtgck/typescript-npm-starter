@@ -24,7 +24,7 @@
     "mocha": "^6.2.2",
     "power-assert": "^1.6.1",
     "ts-node": "^8.6.2",
-    "typescript": "^3.8.2"
+    "typescript": "^3.9.3"
   },
   "dependencies": {}
 }
