@@ -19,7 +19,7 @@
   "author": "Ryo Ota <nwtgck@nwtgck.org> (https://github.com/nwtgck)",
   "license": "MIT",
   "devDependencies": {
-    "@types/mocha": "^8.0.0",
+    "@types/mocha": "^8.0.4",
     "@types/power-assert": "^1.5.3",
     "mocha": "^7.2.0",
     "power-assert": "^1.6.1",
