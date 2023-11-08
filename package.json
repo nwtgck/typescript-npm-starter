@@ -20,7 +20,7 @@
   "license": "MIT",
   "devDependencies": {
     "@types/mocha": "^10.0.1",
-    "@types/power-assert": "^1.5.8",
+    "@types/power-assert": "^1.5.11",
     "mocha": "^10.2.0",
     "power-assert": "^1.6.1",
     "ts-node": "^10.9.1",
